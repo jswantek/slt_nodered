@@ -1,1 +1,6 @@
+# nodeRED data and testing directory
+_data/*
+_test/*
+
+# MAC temp files
 *.DS_Store
