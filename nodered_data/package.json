@@ -15,7 +15,8 @@
         "debug_brk": "node --inspect=0.0.0.0:9229 --inspect-brk $NODE_OPTIONS node_modules/node-red/red.js $FLOWS"
     },
     "dependencies": {
-        "node-red": "1.0.6"
+        "node-red": "1.0.6",
+        "node-red-node-mysql": "~0.1.0"
     },
     "engines": {
         "node": ">=10"
